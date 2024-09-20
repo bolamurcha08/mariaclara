@@ -1,1 +1,1 @@
-alert('deu certo')
+alert('João,Maria Clara 2N')
